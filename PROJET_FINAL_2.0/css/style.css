@@ -1,0 +1,44 @@
+div{text-align: center;}
+
+img{width: 200px;
+    height: 200px;
+    margin: 2px;
+    font-family: whitesmoke;
+    text-decoration-color: white;
+    background-color:#e6e6e6;
+    
+   
+    
+    ;}
+
+/* R.I.P --button:hover{transition:  2s;background-image: url(dos_de_cartes.jpg)}>     ----N'oubliez pas  notre transion qui était spectaculaire svp :)           */
+
+body{height: 100%;
+    background: linear-gradient(180deg, #e6e6e6 80%, #1a1a1a 50%);
+    background-repeat: no-repeat;
+    background-size: cover;}
+
+img{width: 200px; height: 200px;}
+
+footer{color:white}
+
+ul {list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;}
+  
+  li a {display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;} 
+
+  li a:hover {background-color: #555;
+    color: white;}
+  
+
+.header{
+font-size: 21pt;
+font-family:fantasy;
+
+}
